@@ -1,1 +1,0 @@
-#define MAGIC_EXIT_CODE 101
